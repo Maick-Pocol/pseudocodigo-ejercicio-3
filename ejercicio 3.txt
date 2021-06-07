@@ -1,0 +1,17 @@
+Inicio ejercicio 3.txt
+	definir n, factorial, x
+	Escribir "ingrese un numero"
+	Leer n
+	si n < 0 entonces
+		Escribir "el numero no se puede calcular"
+	SiNo
+	x = 1
+	mientras x <= n entonces
+		factorial = factorial * x
+		x = x + 1
+	fiin mientras
+	escribir " el factorial del numero", "n" = factorial
+	finsi
+Fin algoritmo
+
+	
